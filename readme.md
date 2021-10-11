@@ -122,9 +122,12 @@ Once all 13 hands have been played, scoring begins. For teams
 # VI. Credits
 
   Author:  Reilly Bova
+  
   Date:    30 September 2018
+  
   Purpose: Kleiner-Perkins Engineering Fellows Program application supplement
 
   External Libraries: None
+  
   Other credits:
    > Spades ASCII art sourced from http://patorjk.com/software/taag/

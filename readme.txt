@@ -15,7 +15,7 @@ I. Running the program
 |  In order to run spades, change your local directory to /Spades/, and then
 |  simply run spades.py using python3 in your terminal
 |
-|  '$ python3 spades.py'
+|  `$ python3 spades.py`
 
 II. Rules
 |

@@ -130,4 +130,4 @@ Once all 13 hands have been played, scoring begins. For teams
   External Libraries: None
   
   Other credits:
-   > Spades ASCII art sourced from http://patorjk.com/software/taag/
+   - Spades ASCII art sourced from http://patorjk.com/software/taag/
